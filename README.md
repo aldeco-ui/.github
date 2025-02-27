@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://aldeco-ui.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://gist.github.com/assets/10433384/4c890f92-c85c-4c05-9eb0-6e1390fc92e2">
-      <img src="https://gist.github.com/assets/10433384/07596890-df83-4cd8-9f9a-3eb68a7162f7" alt="Aldeco" width="300" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9ebc632b-2f30-4158-b5de-b36d477bb9ee">
+      <img src="https://github.com/user-attachments/assets/9ebc632b-2f30-4158-b5de-b36d477bb9ee" alt="Aldeco" width="300" />
     </picture>
   </a>
 </p>
